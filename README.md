@@ -1,7 +1,7 @@
 # Sudoku-solver
 
-Sudoku solver using backtracking algorithm. It can be broken down as follows:
+Sudoku solver using backtracking algorithm. It can be used in two different ways :
 
-- first
+- with sudoku and main......
 
-- second
+- with sudoku2 and main2......
